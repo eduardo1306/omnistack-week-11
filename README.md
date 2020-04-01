@@ -1,7 +1,8 @@
 # :rocket: Semana Omnistack 11!
 
 A semana Omnistack teve início no dia 23 de Março até o dia 29 de Março, e nesse período foi desenvolvido o projeto <b>Be The Hero :muscle:</b>.
-Be The Hero tem o objetivo de ajduar ONGs regionais. Projeto este que foi desenvolvido com o conceito <b>MVC</b> dos padrões do designer patters.
+
+Be The Hero tem como proposta ajduar ONGs que necessitam de ajuda financeira com alguma demanda específica, pode ser dado como exemplo dessas ações um cirurgia para ajudar um cachorro que foi atropelado e a ONG não tem esse valor para poder ajudar, essa é a oportunidade de você protagonizar nessa história e fazer a vida de um querido :dog: feliz novamente. 
 
 # :computer: Frontend
 O frontend foi desenvolvido com o <b>React</b> para o desenvolvimento da web page, junto com o Axios para fazer a conexão do backend com o frontend.
