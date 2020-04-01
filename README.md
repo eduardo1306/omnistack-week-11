@@ -1,6 +1,6 @@
 # :rocket: Semana Omnistack 11!
 
-A semana Omnistack teve início no dia 23 de Março até o dia 29 de Março, e nesse período foi desenvolvido o projeto Be The Hero.
+A semana Omnistack teve início no dia 23 de Março até o dia 29 de Março, e nesse período foi desenvolvido o projeto <b>Be The Hero :muscle:</b>.
 Be The Hero tem o objetivo de ajduar ONGs regionais. Projeto este que foi desenvolvido com o conceito <b>MVC</b> dos padrões do designer patters.
 
 # :computer: Frontend
